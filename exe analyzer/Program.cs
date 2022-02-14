@@ -15,7 +15,7 @@ namespace exe_analyzer
             Console.WriteLine(IDH.GetData());
             
             Console.WriteLine("Faila lielums " + data.Length + " byte");
-            IDH.FormatData();
+            IDH.FormatData(true);
             string[] formatdata = IDH.GetFormatData();
             for(int i = 0; i < formatdata.Length; i++)
             {

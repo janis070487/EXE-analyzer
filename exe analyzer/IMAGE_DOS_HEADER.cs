@@ -78,11 +78,14 @@ namespace exe_analyzer
         {
             return sum;
         }
-        public void FormatData()
+        public void FormatData(bool symbol = false)
         {// formate datus
+            bool SymbilFlage = symbol;
+            
             int adress = 0;
             string acumulator = null;
             string acumulator2 = null;
+            string SymbolString = null;
             for (int i = 0; i < 19; i++)
             {
                 acumulator = ValueName[i] + "	";
@@ -90,8 +93,20 @@ namespace exe_analyzer
                 {
                     for (int b = 0; b < sizeWord[i]; b++)
                     {
-                        
+
                         acumulator2 = Convert.ToString(data[adress], toBase: 16);
+                        if (SymbilFlage)
+                        {
+                            if ((data[adress] > 33)&&(data[adress] < 127))
+                            {
+                                SymbolString =  SymbolString + Convert.ToChar(data[adress]);
+                            }
+                            else
+                            {
+                                SymbolString = SymbolString + ".";
+                            }
+                        }
+                        
                         if(acumulator2.Length == 1)
                         {
                             acumulator2 = '0' + acumulator2;
@@ -103,7 +118,13 @@ namespace exe_analyzer
                     }
                     acumulator = acumulator + " ";
                 }
-                formatdata[i] = acumulator;
+               
+                    formatdata[i] = acumulator;
+                if (SymbilFlage)
+                {
+                    formatdata[i] = formatdata[i] + "\t" + SymbolString;
+                }
+                SymbolString = "";
                 //	Console.WriteLine(acumulator);
                 //acumulator = "";
             }
