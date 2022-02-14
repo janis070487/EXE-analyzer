@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgsiqKpwdGEpYX5rEGLwelukKjdCrxjpvZOezPSa74GTxMazG8a8AvcsPv6IeXvn5htrkWB6aJswZ/0xOEehqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janis\\OneDrive\\Dators\\Projekti\\EXE-analyzer\\exe analyzer\\exe analyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

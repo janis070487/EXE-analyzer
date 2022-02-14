@@ -1,0 +1,16 @@
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\bin\Debug\net5.0\exe analyzer.exe
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\bin\Debug\net5.0\exe analyzer.deps.json
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\bin\Debug\net5.0\exe analyzer.runtimeconfig.json
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\bin\Debug\net5.0\exe analyzer.runtimeconfig.dev.json
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\bin\Debug\net5.0\exe analyzer.dll
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\bin\Debug\net5.0\ref\exe analyzer.dll
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\bin\Debug\net5.0\exe analyzer.pdb
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.csproj.AssemblyReference.cache
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.AssemblyInfoInputs.cache
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.AssemblyInfo.cs
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.csproj.CoreCompileInputs.cache
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.dll
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\ref\exe analyzer.dll
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.pdb
+C:\Users\janis\OneDrive\Dators\Projekti\EXE-analyzer\exe analyzer\obj\Debug\net5.0\exe analyzer.genruntimeconfig.cache
